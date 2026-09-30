@@ -1,18 +1,59 @@
-<h1 align="center">Hi 👋, I'm dirghpal suthar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Android / kotlin , machine learning ,cloud computing**
+<!-- Animated Typing Header -->
 
-- 📫 How to reach me **dirghpal2@gmail.com**
+<a href="https://dirghpal-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dirghpal+Suthar+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Python+%7C+FastAPI+%7C+Laravel;REST+APIs+%7C+MySQL+%7C+PHP;Building+clean+and+practical+backend+systems" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_dirghpal_str_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dirghpal_str_" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9333EA,100:EC4899&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dirghpal&show_icons=true&locale=en&layout=compact" alt="dirghpal" /></p>
+### `Backend Developer`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dirghpal&show_icons=true&locale=en" alt="dirghpal" /></p>
+**Python • FastAPI • Laravel • REST APIs • MySQL**
+
+I build practical backend systems, REST APIs and database-driven applications  
+with a focus on clean architecture and useful solutions.
+
+<br/>
+
+<a href="https://dirghpal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dirghpal-suthar-5085b3207">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:dirghpal2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```text
+🎓 B.Tech Computer Science Engineering — 7th Semester
+
+💻 Backend Development
+   Python • FastAPI • PHP • Laravel
+
+🗄️ Database
+   MySQL • MariaDB
+
+🔌 APIs
+   REST API • CRUD • JSON • Authentication Concepts
+
+📱 Secondary
+   Kotlin • Jetpack Compose • Android
+
+🎨 Also interested in
+   UI/UX • Clean Interfaces • Responsive Design
+
+🚀 Currently focused on
+   Building better backend projects and improving my development skills.
